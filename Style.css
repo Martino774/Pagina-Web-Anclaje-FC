@@ -1,0 +1,15 @@
+.navbar-nav img {
+    width: auto;
+    height: auto;
+}
+
+.logo-equipo {
+    max-width: 100px;
+    height: auto;
+}
+
+.FotoEquipo p {
+    text-align: center;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+}
