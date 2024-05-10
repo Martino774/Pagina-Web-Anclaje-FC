@@ -1,15 +1,35 @@
-.navbar-nav img {
-    width: auto;
-    height: auto;
+html {
+    font-family: serif;
 }
 
-.logo-equipo {
-    max-width: 100px;
-    height: auto;
+/* estilo de index.html */
+.img-nav {
+    height: 65px;
+    width: 65px;
+    position: relative;
+    border-radius: 50%;
 }
 
-.FotoEquipo p {
+.nav-link {
     text-align: center;
-    font-size: medium;
-    font-family: 'Times New Roman', Times, serif;
+}
+
+.tituloPrincipal {
+    text-align: center;
+    font-size: 502px;
+}
+
+.carousel-item {
+    max-height: auto;
+    max-width: auto;
+    margin: auto;
+    overflow: hidden;
+    border-radius: 5px;
+    border-color: black;
+}
+
+#carouselExample {
+    float: right;
+    margin: auto;
+
 }
