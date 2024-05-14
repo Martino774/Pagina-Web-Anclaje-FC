@@ -3,6 +3,8 @@ html {
 }
 
 /* estilo de index.html */
+
+
 .img-nav {
     height: 65px;
     width: 65px;
@@ -14,18 +16,14 @@ html {
     text-align: center;
 }
 
-.tituloPrincipal {
-    text-align: center;
-    font-size: 502px;
-}
 
 .carousel-item {
-    max-height: auto;
-    max-width: auto;
-    margin: auto;
-    overflow: hidden;
-    border-radius: 5px;
-    border-color: black;
+    max-height: 650px;
+
+}
+
+.carousel-inner {
+    border-radius: 10px;
 }
 
 #carouselExample {
