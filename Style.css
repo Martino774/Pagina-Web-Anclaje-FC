@@ -32,7 +32,7 @@ html {
 /* estilo de asociarse */
 .h1Asociarse {
     background-color: black;
-    color: aliceblue;
+    color: #85a158;
     border-radius: 10px;
 }
 
@@ -48,4 +48,35 @@ html {
 
 .imgAsociarse {
     border-radius: 50%;
+}
+
+/* estilos fotos.html */
+.h1Fotos {
+    border: 10px;
+    border-color: black;
+    border-radius: 50%;
+}
+
+/* icono camara de foto */
+.camara {
+    background-color: #CFCFCF;
+    border-radius: 44%;
+}
+
+/* estilos de la pagina fotos.html*/
+.h2Fotos {
+    font-family: "Courier New", monospace;
+    color: aliceblue;
+    border: 1px;
+    border-color: black;
+    background-color: black;
+    border-radius: 7PX;
+}
+
+.containerFotos {
+    background-image: url('juntosGrande.jpeg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 7px;
 }
