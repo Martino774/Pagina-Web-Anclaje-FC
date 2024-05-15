@@ -3,12 +3,9 @@ html {
 }
 
 /* estilo de index.html */
-
-
 .img-nav {
     height: 65px;
     width: 65px;
-    position: relative;
     border-radius: 50%;
 }
 
@@ -30,4 +27,25 @@ html {
     float: right;
     margin: auto;
 
+}
+
+/* estilo de asociarse */
+.h1Asociarse {
+    background-color: black;
+    color: aliceblue;
+    border-radius: 10px;
+}
+
+
+.contFormulario {
+    background-color: #CFCFCF;
+    border-radius: 5px;
+}
+
+.body {
+    background-color: #85a158;
+}
+
+.imgAsociarse {
+    border-radius: 50%;
 }
