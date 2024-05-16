@@ -3,10 +3,24 @@ html {
 }
 
 /* estilo de index.html */
+.navbar {
+    background-color: #4a5e2b;
+    text-decoration: dotted;
+}
+
 .img-nav {
     height: 65px;
     width: 65px;
     border-radius: 50%;
+}
+
+.accordion-body {
+    background-color: #85a158;
+
+}
+
+.accordion-item {
+    background-color: #709b2a;
 }
 
 .nav-link {
@@ -29,15 +43,23 @@ html {
 
 }
 
-.tituloCarta {
+.card-body {
+    background-color: #4a5e2b;
+    border-radius: 5px;
+}
+
+.card-text {
     color: #CFCFCF;
 }
+
+
 
 /* estilo de asociarse */
 .h1Asociarse {
     background-color: black;
     color: #85a158;
     border-radius: 10px;
+    font-family: Vegur, 'PT Sans', Verdana, sans-serif;
 }
 
 
