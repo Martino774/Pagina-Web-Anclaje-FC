@@ -29,6 +29,10 @@ html {
 
 }
 
+.tituloCarta {
+    color: #CFCFCF;
+}
+
 /* estilo de asociarse */
 .h1Asociarse {
     background-color: black;
@@ -79,4 +83,15 @@ html {
     background-position: center;
     background-repeat: no-repeat;
     border-radius: 7px;
+}
+
+/* estilos de la pagina partidos.html*/
+.tabla {
+    background-color: #709b2a;
+    border-radius: 10px;
+}
+
+.imgResultados {
+    height: 30px;
+    width: 30px;
 }
